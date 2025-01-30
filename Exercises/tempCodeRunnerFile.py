@@ -1,4 +1,4 @@
-for i in range(3):
+# for i in range(3):
 #     Password = input("Password: ")
 #     if not Password :
 #         print("You must write a password")

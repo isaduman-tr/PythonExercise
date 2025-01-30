@@ -45,10 +45,27 @@
 #     else :
 #         print("Your password lenght not 3 or 8")    
 
-def topla():
-    a = int(input("First number :"))
-    b = int(input("Second number :"))
-    toplam = a+b
-    print(toplam)
+# def topla():
+#     a = int(input("First number :"))
+#     b = int(input("Second number :"))
+#     toplam = a+b
+#     print(toplam)
 
-topla()
+# topla()
+
+###################################################
+
+# def user(name,surname,age,job):
+#     print(f"Name:{name}\nSurname:{surname}\nAge:{age}\nJob:{job}")
+#     print("*"*25)
+
+# YourName = input("Your name :")
+# YourSurname = input("Your surname :")
+# YourAge = input("Your age :")
+# Yourjob = input("Your job :")
+
+# user(YourName,YourSurname,YourAge,Yourjob)
+
+############################################################
+
+
